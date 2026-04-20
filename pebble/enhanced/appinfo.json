@@ -5,7 +5,7 @@
   "companyName": "LoopKit",
   "versionCode": 1,
   "versionLabel": "1.0.0",
-  "sdkVersion": "4.3",
+  "sdkVersion": "3",
   "enableMultiJS": true,
   "targetPlatforms": [
     "aplite",
